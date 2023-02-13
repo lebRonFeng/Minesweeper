@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "angular": "^1.5.5",
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.15.0",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^1.3.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.15.0",
+    "gulp": "^3.9.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lebRonFeng/Minesweeper.git"
